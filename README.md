@@ -42,6 +42,6 @@ Tabel database **`db_perpus`** :
 ## Tampilan Data Anggota
 ![Tampilan Data Anggota](https://raw.githubusercontent.com/rusydimuhammad/SI-Perpustakaan-LSP/main/assets/Tampilan/TampilanDataAnggota.jpg)
 ## Tampilan Daftar Peminjaman
-![Tampilan Daftar Peminjaman](https://raw.githubusercontent.com/rusydimuhammad/SI-Perpustakaan-LSP/main/assets/Tampilan/TampilanPeminjaman.jpg)
+![Tampilan Daftar Peminjaman](https://raw.githubusercontent.com/rusydimuhammad/SI-Perpustakaan-LSP/main/assets/Tampilan/TampilanDaftarPeminjaman.jpg)
 ## Tampilan Daftar Pengembalian
 ![Tampilan Daftar Pengembalian](https://raw.githubusercontent.com/rusydimuhammad/SI-Perpustakaan-LSP/main/assets/Tampilan/TampilanDaftarPengembalian.jpg)
